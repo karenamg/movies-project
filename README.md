@@ -1,1 +1,3 @@
-# movies-project
+# movies
+
+A new Flutter project.
